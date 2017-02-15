@@ -83,7 +83,7 @@ public class WordSearch2 {
             if (!foundWords.contains(w)) {
                 foundWords.add(w);
 
-                char[] word = w.toCharArray();
+                char[] word = reverse(w.toCharArray());
                 List<Vertex> start = g.vertexValueMap.get(word[0]);
 
                 if (start != null) {
@@ -131,6 +131,16 @@ public class WordSearch2 {
         }
 
         return found;
+    }
+
+    private char[] reverse(char[] arr) {
+        for(int i = 0; i < arr.length / 2; i++) {
+            char temp = arr[i];
+            arr[i] = arr[arr.length - i - 1];
+            arr[arr.length - i - 1] = temp;
+        }
+
+        return arr;
     }
 
     private Graph getGraph(char[][] board) {
