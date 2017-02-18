@@ -18,6 +18,8 @@ class TreeNode {
 }
 
 public class ConvertSortedListToBinarySearchTree {
+    private int[] items;
+
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
@@ -39,45 +41,51 @@ public class ConvertSortedListToBinarySearchTree {
     }
 
     public TreeNode sortedListToBST(ListNode head) {
-        List<Integer> items = linkedListToList(head);
+        linkedListToList(head);
         
-        if (items.size() == 0) {
+        if (items.length == 0) {
             return null;
         }
-
-        return toNode(items, 0, items.size() - 1);
+        
+        return toNode(0, items.length - 1);
     }
 
-    private TreeNode toNode(List<Integer> items, int left, int right) {
+    private TreeNode toNode(int left, int right) {
         if (right - left > 0) {
             int half = left + ((right - left) / 2);
 
-            TreeNode n = new TreeNode(items.get(half));
+            TreeNode n = new TreeNode(items[half]);
 
-            n.left = toNode(items, left, half - 1);
-            n.right = toNode(items, half + 1, right);
+            n.left = toNode(left, half - 1);
+            n.right = toNode(half + 1, right);
 
             return n;
         } else {
             if (left == right) {
-                return new TreeNode(items.get(left));
+                return new TreeNode(items[left]);
             } else {
                 return null;
             }
-            
         }
     }
 
-    private List<Integer> linkedListToList(ListNode head) {
-        List<Integer> ret = new ArrayList<Integer>();
+    private void linkedListToList(ListNode head) {
+        int count = 0, i = 0;
 
         ListNode n = head;
 
         while (n != null) {
-            ret.add(n.val);
+            count++;
             n = n.next;
         }
 
-        return ret;
+        items = new int[count];
+
+        n = head;
+
+        while (n != null) {
+            items[i++] = n.val;
+            n = n.next;
+        }
     }
 }
