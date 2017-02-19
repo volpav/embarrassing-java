@@ -1,3 +1,5 @@
+package com.volgarev.embarrassingJava.kattis;
+
 import com.volgarev.embarrassingJava.SolutionRunner;
 
 import java.util.Scanner;
