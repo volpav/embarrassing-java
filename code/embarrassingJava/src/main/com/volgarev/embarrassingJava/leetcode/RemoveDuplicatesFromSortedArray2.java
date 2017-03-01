@@ -13,7 +13,7 @@ public class RemoveDuplicatesFromSortedArray2 implements SolutionRunner {
         int newLength = removeDuplicates(nums);
 
         System.out.println(newLength);
-        Writer.writeArray(nums, newLength);
+        Writer.writeIntArray(nums, newLength);
     }
 
     public int removeDuplicates(int[] nums) {
