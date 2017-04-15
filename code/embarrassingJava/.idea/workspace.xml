@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18ba4c13-7127-43b2-9c12-ceb25ebab55c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/ExcelSheetColumnNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/IntegerReplacement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/IsomorphicStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/NonOverlappingIntervals.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/Interval.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/volpav.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/volpav.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/Reader.java" afterPath="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/Reader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/SolutionTester.java" afterPath="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/SolutionTester.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -38,109 +34,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FirstUniqueCharacterInAString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/FirstUniqueCharacterInAString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="48" column="5" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestPalindromicSubstring.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/LongestPalindromicSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntegerReplacement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/IntegerReplacement.java">
+      <file leaf-file-name="AlphabetCake.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/AlphabetCake.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NonOverlappingIntervals.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/NonOverlappingIntervals.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
-                <element signature="e#769#770#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExcelSheetColumnNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/ExcelSheetColumnNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsomorphicStrings.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/IsomorphicStrings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/Reader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="52" lean-forward="false" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Interval.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/Interval.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Palindrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/misc/Palindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -501,34 +401,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/RandomPickIndex.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/BalancedBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/SolutionTester.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/ValidateBinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/WordSearch2.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/SingleNumber3.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/RemoveDuplicatesFromSortedList.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/ConvertSortedListToBinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/CombinationSumTwo.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/DecodeWays.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/FindLeftMostElement.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/GroupAnagrams.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/LargestRectangleInHistogram.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/LongestSubstringWithoutRepeatingCharacters.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/OddEvenLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/Permutations.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/ShortestPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/SolutionTester.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/kattis/carousel.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/kattis/incognito.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/kattis/stockbroker.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/misc/AllPermutations.java" />
-        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/misc/AllSubSets.java" />
         <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/misc/FirstUniqueCharacter.java" />
         <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/misc/Anagram.java" />
         <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/misc/HelloWorld.java" />
@@ -550,14 +422,44 @@
         <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/NonOverlappingIntervals.java" />
         <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/ExcelSheetColumnNumber.java" />
         <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/IsomorphicStrings.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/Edge.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/MinimumHeightTrees.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/SolutionTester.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/CountingSheep.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/CountingSheepRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/OversizedPancakeFlipperRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/TidyNumbersRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/TidyNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/OversizedPancakeFlipper.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/BathroomStallsRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/BathroomStalls.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/AlphabetCakeRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1BFirst.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1BFirstRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1BSecond.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1BThird.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1BFourth.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1BSecondRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1B3Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1B4Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C1.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C2.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C3.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C4.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C1Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C2Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C3Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C4Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/AlphabetCake.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
+    <option name="x" value="1281" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1053" />
+    <option name="height" value="1052" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -596,7 +498,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -634,32 +535,6 @@
               <option name="myItemId" value="embarrassingJava" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SolutionTester.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="embarrassingJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="embarrassingJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="embarrassingJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -683,92 +558,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="embarrassingJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="embarrassingJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="embarrassingJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="misc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="embarrassingJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="embarrassingJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="embarrassingJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="embarrassingJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="embarrassingJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="embarrassingJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kattis" />
+              <option name="myItemId" value="codejam" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -931,30 +729,30 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1920" height="1053" extended-state="6" />
+    <frame x="1281" y="23" width="1920" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32825205" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23397762" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35264227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38453713" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22135417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2015625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39939025" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39877924" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -987,8 +785,32 @@
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/TidyNumbers.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/OversizedPancakeFlipper.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/AlphabetCake.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/AlphabetCake.java</url>
+          <line>160</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="23" />
+      <option name="time" value="33" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -997,315 +819,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/RandomPickIndex.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="1434" column="23" lean-forward="false" selection-start-line="1434" selection-start-column="23" selection-end-line="1434" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="1205" column="18" lean-forward="false" selection-start-line="1205" selection-start-column="18" selection-end-line="1205" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/SolutionRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/NoSuchMethodException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5490">
-          <caret line="1821" column="26" lean-forward="false" selection-start-line="1821" selection-start-column="26" selection-end-line="1821" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/WordSearch2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="101" column="17" lean-forward="true" selection-start-line="101" selection-start-column="17" selection-end-line="101" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/CombinationSumTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/ConvertSortedListToBinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/DecodeWays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/GroupAnagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="36" column="10" lean-forward="false" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/LargestRectangleInHistogram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/LongestSubstringWithoutRepeatingCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/OddEvenLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/SingleNumber3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/ValidateBinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/ShortestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/Permutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="38" column="10" lean-forward="false" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/FindLeftMostElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/RemoveDuplicatesFromSortedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/SolutionTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="85" column="13" lean-forward="true" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/BalancedBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/kattis/carousel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/kattis/incognito.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/kattis/stockbroker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/misc/AllPermutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/misc/AllSubSets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/misc/FirstUniqueCharacter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/misc/Anagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/misc/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#209#210#0" expanded="false" />
-            <element signature="e#260#261#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/misc/TwoNumberSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/MissingNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/CountingBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/HIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/DeleteNodeInBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/RelativeRanks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="52" column="35" lean-forward="true" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#868#869#0" expanded="false" />
-            <element signature="e#912#913#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/Writer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="64" column="51" lean-forward="false" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/RemoveDuplicatesFromSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1314,7 +831,7 @@
         <state relative-caret-position="375">
           <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1323,9 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="48" column="5" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1343,9 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1353,9 +864,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1379,30 +887,416 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#769#770#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/ExcelSheetColumnNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="180">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#225#226#0" expanded="false" />
+            <element signature="e#284#285#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/IsomorphicStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        <state relative-caret-position="570">
+          <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/MinimumHeightTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="67" column="5" lean-forward="false" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/SolutionTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="75" column="129" lean-forward="false" selection-start-line="75" selection-start-column="129" selection-end-line="75" selection-end-column="129" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/leetcode/BalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#170#171#0" expanded="false" />
+            <element signature="e#193#194#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/util/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/CountingSheep.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/OversizedPancakeFlipperRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#230#231#0" expanded="false" />
+            <element signature="e#282#283#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/B-small-tidy-numbers-test.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/B-large-tidy-numbers.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/B-small-tidy-numbers.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/B-small-tidy-numbers-test.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/B-small-tidy-numbers.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/B-small-attempt0.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/B-large-tidy-numbers.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/TidyNumbersRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/TidyNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/OversizedPancakeFlipper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="16" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/CountingSheepRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/CountingSheep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/BathroomStallsRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/BathroomStalls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/AlphabetCakeRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1B2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1B2Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1B3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1B3Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1B4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1B4Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1B1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1B1Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C1Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C2Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C3Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/Round1C4Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/volgarev/embarrassingJava/codejam/AlphabetCake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

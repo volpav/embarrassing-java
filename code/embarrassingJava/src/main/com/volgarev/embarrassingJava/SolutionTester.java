@@ -72,16 +72,20 @@ public class SolutionTester {
                 } else {
                     SolutionRunner runner = createRunnerFromClass(categories.get(categoryIndex).solutions.get(solutionIndex));
 
-                    System.out.println(String.format("Running \"%s\"...", categories.get(categoryIndex).solutions.get(solutionIndex).getSimpleName()));
-                    System.out.println();
+                    if (runner == null) {
+                        System.out.println("This solution is not runnable! Maybe there's a \"Runner\" type that you should choose?");
+                    } else {
+                        System.out.println(String.format("Running \"%s\"...", categories.get(categoryIndex).solutions.get(solutionIndex).getSimpleName()));
+                        System.out.println();
 
-                    runner.run(s);
+                        runner.run(s);
 
-                    System.out.println();
-                    System.out.println();
+                        System.out.println();
+                        System.out.println();
 
-                    categoryIndex = -1;
-                    solutionIndex = -1;
+                        categoryIndex = -1;
+                        solutionIndex = -1;
+                    }
                 }
             }
         }
@@ -114,6 +118,7 @@ public class SolutionTester {
     private static List<SolutionCategory> getSolutionCategories() {
         List<SolutionCategory> ret = new ArrayList<SolutionCategory>();
 
+        ret.add(new SolutionCategory("codejam", getClassesForPackage("com.volgarev.embarrassingJava.codejam")));
         ret.add(new SolutionCategory("kattis", getClassesForPackage("com.volgarev.embarrassingJava.kattis")));
         ret.add(new SolutionCategory("leetcode", getClassesForPackage("com.volgarev.embarrassingJava.leetcode")));
         ret.add(new SolutionCategory("misc", getClassesForPackage("com.volgarev.embarrassingJava.misc")));
