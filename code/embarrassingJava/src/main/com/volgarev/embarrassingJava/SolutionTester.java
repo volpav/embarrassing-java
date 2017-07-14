@@ -119,6 +119,7 @@ public class SolutionTester {
         List<SolutionCategory> ret = new ArrayList<SolutionCategory>();
 
         ret.add(new SolutionCategory("codejam", getClassesForPackage("com.volgarev.embarrassingJava.codejam")));
+        ret.add(new SolutionCategory("hackerrank", getClassesForPackage("com.volgarev.embarrassingJava.hackerrank")));
         ret.add(new SolutionCategory("kattis", getClassesForPackage("com.volgarev.embarrassingJava.kattis")));
         ret.add(new SolutionCategory("leetcode", getClassesForPackage("com.volgarev.embarrassingJava.leetcode")));
         ret.add(new SolutionCategory("misc", getClassesForPackage("com.volgarev.embarrassingJava.misc")));
