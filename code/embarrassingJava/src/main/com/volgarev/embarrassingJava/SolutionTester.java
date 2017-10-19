@@ -122,6 +122,7 @@ public class SolutionTester {
         ret.add(new SolutionCategory("hackerrank", getClassesForPackage("com.volgarev.embarrassingJava.hackerrank")));
         ret.add(new SolutionCategory("kattis", getClassesForPackage("com.volgarev.embarrassingJava.kattis")));
         ret.add(new SolutionCategory("leetcode", getClassesForPackage("com.volgarev.embarrassingJava.leetcode")));
+        ret.add(new SolutionCategory("Cracking the Coding Interview", getClassesForPackage("com.volgarev.embarrassingJava.ctci")));
         ret.add(new SolutionCategory("misc", getClassesForPackage("com.volgarev.embarrassingJava.misc")));
 
         return ret;

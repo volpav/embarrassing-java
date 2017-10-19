@@ -2,11 +2,13 @@
   <dictionary name="volpav">
     <words>
       <w>codejam</w>
+      <w>ctci</w>
       <w>decodings</w>
       <w>hackerrank</w>
       <w>kattis</w>
       <w>leetcode</w>
       <w>nums</w>
+      <w>subsequence</w>
       <w>volgarev</w>
     </words>
   </dictionary>

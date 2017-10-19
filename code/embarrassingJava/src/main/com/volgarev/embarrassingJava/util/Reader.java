@@ -20,8 +20,10 @@ public class Reader {
     }
 
     public static int[] readArray(Scanner s) {
-        int n = s.nextInt();
+        return readArray(s, s.nextInt());
+    }
 
+    public static int[] readArray(Scanner s, int n) {
         int index = 0;
         int[] ret = new int[n];
 
