@@ -34,6 +34,19 @@ public class Reader {
         return ret;
     }
 
+    public static String[] readStringArray(Scanner s) { return readStringArray(s, s.nextInt()); }
+
+    public static String[] readStringArray(Scanner s, int n) {
+        int index = 0;
+        String[] ret = new String[n];
+
+        while ((n--) > 0) {
+            ret[index++] = s.next();
+        }
+
+        return ret;
+    }
+
     public static TreeNode readBinaryTree(Scanner s) {
         int n = s.nextInt();
 
