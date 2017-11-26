@@ -3,6 +3,21 @@ package com.volgarev.embarrassingJava.util;
 import java.util.Scanner;
 
 public class Reader {
+    public static ListNode readLinkedList(Scanner s) {
+        int n = s.nextInt();
+
+        ListNode cur = new ListNode(s.nextInt());
+        ListNode head = cur;
+        n--;
+
+        while (n-- > 0) {
+            cur.next = new ListNode(s.nextInt());
+            cur = cur.next;
+        }
+
+        return head;
+    }
+
     public static Interval[] readIntervals(Scanner s) {
         int n = s.nextInt();
 
